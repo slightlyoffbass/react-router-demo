@@ -12,9 +12,6 @@ const Header = () =>{
                 <Link to="/" className="item">
                     All Streams
                 </Link>
-                <Link to="/" className="item">
-                    Login with Google
-                </Link>
                 <GoogleAuth/>
              </div>
         </div>
