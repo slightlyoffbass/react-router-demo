@@ -14,7 +14,7 @@ ___
 ### Notes
 
 localhost:3000?debug_session=<some_string> 
-    - Saves all data in Redux Stor between page refreshes
+    - Saves all data in Redux Store between page refreshes
     - Remove debug session after 
 
 ___
