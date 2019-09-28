@@ -13,7 +13,6 @@
 
 #dev
 /.idea/
-/client/.idea/
 
 # misc
 .DS_Store
