@@ -3,6 +3,12 @@
 This app is a clone of the twitch application and consists of three sub-projects. 
 
 - Client - React router example
+- API Server
+    - GET /streams - List all records
+    - GET /streams/:id - Get one record
+    - POST /streams - create record
+    - PUT /streams/:id - update record
+    - DELETE /streams/:id - delete record
 ___
 
 ### Tech Covered
@@ -22,3 +28,4 @@ ___
  - developers.google.com/identity/protocols/googlescopes
  - redux-form.com
  - github.com/zalmoxisus/redux-devtools-extension
+ - npmjs.com/package/json-server
