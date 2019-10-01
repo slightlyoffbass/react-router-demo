@@ -1,3 +1,19 @@
 {
-    "streams":[]
+  "streams": [
+    {
+      "title": "this is a new stream",
+      "description": "this is the best stream yet",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "a second stream",
+      "id": 2
+    },
+    {
+      "title": "jeff",
+      "description": " new stream",
+      "id": 3
+    }
+  ]
 }
