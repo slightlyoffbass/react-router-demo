@@ -29,3 +29,6 @@ ___
  - redux-form.com
  - github.com/zalmoxisus/redux-devtools-extension
  - npmjs.com/package/json-server
+ - github.com/illuspas/Node-Media-Server#npm-version-recommended
+ - obsproject.com
+ - npmjs.com/package/flv.js
