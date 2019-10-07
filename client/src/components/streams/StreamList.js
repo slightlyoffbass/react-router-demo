@@ -32,7 +32,7 @@ class StreamList extends React.Component {
           <div className="content header">
             <Link
               className="header"
-              to={`/streams/${stream.id}`}>
+              to={`/streams/show/${stream.id}`}>
               {stream.title}
             </Link>
             <div className="description">{stream.description}</div>
